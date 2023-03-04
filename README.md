@@ -10,7 +10,6 @@ This Project was created with the goal of building an Arduino based Go-To/SkyTra
 - Arduino (model at the moment unknown)
 - 2 NEMA23 stepper motor
 - 2 Tb6000 motor driver
-- GPS module (gy-gps6mv2)
 - 2 360° Hall effect sensor
 
 
