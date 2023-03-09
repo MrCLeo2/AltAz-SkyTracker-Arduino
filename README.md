@@ -1,4 +1,4 @@
-# AltAz-SkyTracker-Arduino
+# AltAz-SkyTracker-Raspberry Pi
 This Project was created with the goal of building an Raspberyy Pi based Go-To/SkyTracker for the Skywatcher 200p Telescope. Since the telescope uses an Alt-Az mount, traditional Skytracker will not work
 
 
